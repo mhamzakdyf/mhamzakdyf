@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mhamzakdyfv&label=Profile+Views&color=brightgreen" alt="Hamza" />
+</p>
 
-<!--
-**mhamzakdyf/mhamzakdyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Murat Hamza
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I’m **[Your Name]**, a software student at **[Your University / Department]**.  
+I am passionate about software development, algorithms, and exploring new technologies.
+
+## 🧰 Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,cpp,ps" />
+</p>
+
+## Goals
+
+- Become a solid full-stack developer  
+- Participate in real-world projects  
+- Contribute to open‐source communities  
+- Keep learning and staying updated with tech trends
+
+## Contact
+
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
