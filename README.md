@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I’m **[Murat Hamza]**, a software student at **Gümüşhane Üniversitesi / Software Engineering**.  
+Hello! I’m **Murat Hamza**, a software student at **Gümüşhane Üniversitesi / Software Engineering**.  
 I am passionate about software development, algorithms, and exploring new technologies.
 
 ## 🧰 Languages and Tools:
