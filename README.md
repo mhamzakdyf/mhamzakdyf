@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I’m **[Your Name]**, a software student at **[Your University / Department]**.  
+Hello! I’m **[Murat Hamza]**, a software student at **Gümüşhane Üniversitesi / Software Engineering**.  
 I am passionate about software development, algorithms, and exploring new technologies.
 
 ## 🧰 Languages and Tools:
@@ -24,6 +24,6 @@ I am passionate about software development, algorithms, and exploring new techno
 
 ## Contact
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: hamzaminecraftta@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🐙 GitHub: [github.com/mhamzakdyf](https://github.com/yourusername)
